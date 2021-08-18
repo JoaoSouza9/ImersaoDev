@@ -40,3 +40,10 @@ img {
   display: block;
   transform: translatey(-80px);
 }
+li{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
